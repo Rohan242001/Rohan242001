@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohan c s</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan242001&label=Profile%20views&color=0e75b6&style=flat" alt="rohan242001" /> </p>
 
-- 🌱 I’m currently learning **Framework**
+- 🌱 I’m currently learning **generative ai**
 
-- 💬 Ask me about **HTML CSS ans JS**
+- 💬 Ask me about **DSA,DBMS,GCP**
 
-- 📫 How to reach me **rohan.1si19ei036@gmail.com**
+- 📫 How to reach me **rohan1.msismpl2024@learner.manipal.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
